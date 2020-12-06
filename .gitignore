@@ -3,3 +3,6 @@
 ################################################################################
 
 /StateManager.Data.Access/obj
+/StateManager.Data.Common/obj
+/StateManager.Services/obj
+/StateManager.WebAPI/obj
